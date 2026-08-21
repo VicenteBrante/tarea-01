@@ -1,5 +1,5 @@
 # Análisis de Webstory: "¿Escuchamos lo mismo en Latinoamérica?"
-Esta [*webstory*] (https://caritoofml.github.io/webstory-spotify-latinoamerica/#inicio)recopila información sobre los charts de Spotify de una selección de distintos países latinoamericanos. Estos siendo México, Colombia, Chile y Argentina. Todo esto con el fin de entender cómo la música cruza fronteras entre países de un mismo continente, además de caracterizar a Chile dentro de este "REMIX" latino.
+Esta [*webstory*](https://caritoofml.github.io/webstory-spotify-latinoamerica/#inicio)recopila información sobre los charts de Spotify de una selección de distintos países latinoamericanos. Estos siendo México, Colombia, Chile y Argentina. Todo esto con el fin de entender cómo la música cruza fronteras entre países de un mismo continente, además de caracterizar a Chile dentro de este "REMIX" latino.
 
 Esta caracterización se realizó mediante el análisis de datos reunidos entre noviembre del 2025 y abril del 2026. El reportaje aborda más de una arista para poder determinar cómo Chile y los demás países a estudiar participan de este ecosistema musical. 
 
