@@ -1,2 +1,2 @@
-## Análisis de Webstory: "¿Escuchamos lo mismo en Latinoamérica?"
+### Análisis de Webstory: "¿Escuchamos lo mismo en Latinoamérica?"
 
